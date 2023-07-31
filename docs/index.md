@@ -1,4 +1,4 @@
-# Welcome to My Docs 0.3
+# Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
@@ -15,3 +15,6 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+## Versioning
+This is v.0.0.2 but with a new change!
